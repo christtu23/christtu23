@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Howdy 👋
+My name is Chris, and I'm a Computer Engineer at Texas Tech University.
 - 🎓 Graduating Spring 25'
 - 💻 Computer Engineering B.S.
 - 💬 Oriented with hardware systems
