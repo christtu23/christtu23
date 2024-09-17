@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🎓 Graduating Spring 25'
+- 💻 Computer Engineering B.S.
+- 💬 Oriented with hardware systems
+- 📫 How to reach me: christtu19@gmail.com
 <!--
 **christtu23/christtu23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
